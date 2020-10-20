@@ -15,8 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+This is Kathe test page
 
 1. Numbered
 2. List
